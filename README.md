@@ -1,4 +1,4 @@
-# Task Tracker
+# Task Tracker - Built with React
 A task tracker where you can set the following:
 - name
 - date and time
