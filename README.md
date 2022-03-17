@@ -4,7 +4,7 @@ A task tracker where you can set the following:
 - date and time
 - set a reminder (double click on task to set it on/off)
 
-Note: this project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Note: this project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It is also using the [json-server](https://www.npmjs.com/package/json-server) backend to keep track of your tasks.
 
 ## Available Scripts
 
